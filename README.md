@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @BrunoOller
-      > Olá, eu sou @BrunoOller
-  
-- 👀 I’m interested in Full-Stack area
-      > Eu me interesso pela área de Full-Stack
-  
-- 🌱 I’m currently learning Front-End languages
-      > Atualmente estou aprendendo linguagens Front-End
-  
-- 📫 How to reach me: brunobrunelli4@gmail.com
-      > Como chegar até mim: brunobrunelli4@gmail.com
+ Olá, eu sou o Bruno Oller Brunelli
+ 
+- 👨‍💻 Atualmente estudando **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC** de Jaú
 
-<!---
-BrunoOller/BrunoOller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🖼️ Futuro **Front-end**...
+  
+<div>
+      <a href="https://github.com/BrunoOller">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoOller&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOller&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<div>
+      <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+      <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+      <img align="center" alt="Bru-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+      <img align="right" mg-right="125" alt="Bru-GIF" height="120" width="120" src="https://cdn.discordapp.com/attachments/1339666452424163429/1339669799277432862/bif.gif?ex=67af903a&is=67ae3eba&hm=4c45676beaa5c46debde73f97563b53ae078e35da14314ca3926cd6e7f032781&" />
+</div>
