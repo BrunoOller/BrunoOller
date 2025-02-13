@@ -11,7 +11,9 @@
      <a href="https://www.youtube.com/@brtrust" target="_blank"><img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white" target="_blank" /></a>
 </div>
 
-<h2>Status</h2>
+<hr>
+
+<h2>* Github Status *</h2>
   
 <div>
       <a href="https://github.com/BrunoOller">
@@ -24,6 +26,8 @@
       <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
       <img align="center" alt="Bru-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 </div>
+
+<hr>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoOller/BrunoOller/output/github-contribution-grid-snake-dark.svg">
