@@ -1,10 +1,6 @@
 <h2>Olá, eu sou o Bruno Oller Brunelli! 💫</h2>
 
 <div>
-    <img align="center" alt="Bru-GIF" height="380" width="1920" src="https://cdn.discordapp.com/attachments/1339666452424163429/1339684809169043467/banner.gif?ex=67caa4f4&is=67c95374&hm=32849879e740b45fc028942ac2e55ce176fe66c8c365913b878c38b1c808fd7a&" />
-</div>
-
-<div>
      <a href="https://www.linkedin.com/in/brunoobrunelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
      <a href="mailto:brunobrunelli4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
      <a href="https://www.instagram.com/bru_obrkk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
