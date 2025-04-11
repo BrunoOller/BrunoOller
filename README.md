@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoOller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
+<h2></h2>
+
 ###
 
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1339666452424163429/1339669799277432862/bif.gif?ex=67fab5ba&is=67f9643a&hm=78e2725372ad06055069bca3a2ab2c7f194e09d13966af25e11d72a2576867cc&"  />
@@ -38,40 +40,35 @@
 
 <div align="left">
   <a href="https://www.youtube.com/@brtrust" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YoutubeGaming&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YoutubeGaming&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/brunoobrunelli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff405f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff405f&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/brtrust" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
   <a href="mailto:brunobrunelli4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f30000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f30000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/brunoobrunelli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077f5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077f5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
 
 <br clear="both">
+
+<h2></h2>
 
 <img src="https://raw.githubusercontent.com/BrunoOller/BrunoOller/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/BrunoOller/count.svg?"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoOller/BrunoOller/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoOller/BrunoOller/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrunoOller/BrunoOller/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BrunoOller/count.svg?"  />
+</div>
 
 ###
