@@ -69,8 +69,5 @@
 
 <h2></h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BrunoOller/count.svg?"  />
-</div>
 
 ###
